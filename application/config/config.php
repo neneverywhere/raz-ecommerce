@@ -23,7 +23,7 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://neneveywhere.herokuapp.com/';
+$config['base_url'] = 'http://neneveywhere.herokuapp.com/';
 $config['frontend_url']= $config['base_url'].'/public/frontend/';
 
 /*
