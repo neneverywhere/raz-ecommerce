@@ -50,7 +50,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'huntergr_lixi';
-$db['default']['password'] = 'Dai123!@#';
+$db['default']['password'] = 'xx!@#';
 $db['default']['database'] = 'huntergr_lixi';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
