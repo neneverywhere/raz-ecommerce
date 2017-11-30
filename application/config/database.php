@@ -47,11 +47,10 @@
 
 $active_group = 'default';
 $active_record = TRUE;
-
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'huntergr_lixi';
-$db['default']['password'] = 'xx!@#';
-$db['default']['database'] = 'huntergr_lixi';
+$db['default']['hostname'] = '104.199.165.97';
+$db['default']['username'] = 'lehoang8000';
+$db['default']['password'] = 'ledai123';
+$db['default']['database'] = 'lehoang';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
